@@ -1,0 +1,5 @@
+[package]
+name = "deposit_circuit"
+version = "0.1.0"
+type = "bin"
+entry="src/deposit.nr"

@@ -1,0 +1,5 @@
+[package]
+name = "withdraw_circuit"
+version = "0.1.0"
+type = "bin"
+entry="src/withdraw.nr"
